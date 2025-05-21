@@ -27,4 +27,4 @@ A simple yet functional Windows Forms application for managing movie and categor
 1. Clone the Repository:
 
 ```bash
-git clone https://github.com/aturanates/filmkayitsistemi.git
+git clone https://github.com/aturanates/Movie-Registration.git
